@@ -1,0 +1,8 @@
+#controlled{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: grey;
+    border: 1px dotted black;
+    transition: 0.4s;
+}
